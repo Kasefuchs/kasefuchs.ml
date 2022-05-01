@@ -1,0 +1,31 @@
+{
+  "name": "Kasefuchs",
+  "id": "507526681125322772",
+  "social": [
+    {
+      "url": "https://github.com/Kasefuchs",
+      "icon": "github",
+      "description": "There i code some things"
+    },
+    {
+      "url": "https://twitter.com/intent/user?user_id=1300068407396753409",
+      "icon": "twitter",
+      "description": "Something"
+    },
+    {
+      "url": "https://open.spotify.com/user/t2h44nihfpoj95k5p8c6ahhp3?si=24ccf225c1874fd7",
+      "icon": "spotify",
+      "description": "My shitty playlists are here"
+    },
+    {
+      "url": "https://discord.com/users/507526681125322772",
+      "icon": "discord",
+      "description": "DM me pls :3"
+    },
+    {
+      "url": "https://t.me/kasefuchs",
+      "icon": "telegram",
+      "description": "Telegram go brrr"
+    }
+  ]
+}
